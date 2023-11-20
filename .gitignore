@@ -19,3 +19,14 @@ gradle-app.setting
 .project
 # JDT-specific (Eclipse Java Development Tools)
 .classpath
+
+bin
+
+# Types
+*.old
+*.log
+*.zip
+
+# eclipse files
+.settings
+.metadata
